@@ -205,10 +205,7 @@ header hr {
 .project h5 {
   display: inline-block;
 }
-.project span {
-  padding-right: 10px;
-  padding-left: 20px;
-}
+
 
 /* Internship section */
 .Internship{
@@ -314,6 +311,8 @@ footer {
     font-size: 24px;
   }
   .education h4,
+  .project H4,
+  .Internship H4,
   .experience h4 {
     font-size: 20px;
   }
